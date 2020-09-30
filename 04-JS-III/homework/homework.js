@@ -5,12 +5,13 @@ function devolverPrimerElemento(array) {
   // Tu código:
 }
 
-function devolverUltimoElemento(array) {
+function devolverUltimoElemento(array) { 'Manolo'
   // Devuelve el último elemento de un array
-  // Tu código:
+  // Tu código: 
 }
 
-function obtenerLargoDelArray(array) {
+function obtenerLargoDelArray(array) { 1
+  
   // Devuelve el largo de un array
   // Tu código:
 }
